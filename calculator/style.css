@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    justify-content: centre;
+    text-align: centre;
+}
+.container{
+    margin: 50px;
+    text-align: center;
+    justify-content: center;
+}
+button{
+   
+    padding: 20px;
+    margin: 8px;
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(28, 28, 38);
+    color: white;
+    font-weight: bold;
+
+}
+table{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+input{
+    width: 22vw;
+    height: 3vw;
+}
+.op{
+    background-color: rgb(71, 71, 12);
+}
+.del{
+    background-color: red;
+}
+.row{
+    display: flex;
+}
+.text-centre{
+    text-align: center;
+}
